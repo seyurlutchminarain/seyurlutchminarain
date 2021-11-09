@@ -1,5 +1,5 @@
 ### Hi there, I'm Seyur Lutchminarain 👋
-##  In my current project, I am working on creating an AI agent that plays the game of "Congo" (Similiar to chess). The agent will utilise an Alpha-Beta Pruning Algo and will play against an agent that utilises a minimax search. 
+# In my current project, I am working on creating an AI agent that plays the game of "Congo" (Similiar to chess). The agent will utilise an Alpha-Beta Pruning Algo and will play against an agent that utilises a minimax search. 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
