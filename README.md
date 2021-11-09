@@ -24,3 +24,6 @@
   <img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
  
+--------------------------------------------------------------------------------------------------------------------------------
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seyurlutchminarain&repo=seyurlutchminarain)](https://github.com/seyurlutchminarain/seyurlutchminarain)
