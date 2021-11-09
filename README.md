@@ -1,4 +1,4 @@
-### Hi there, Im Seyur Lutchminarain 👋
+### Hi there, I'm Seyur Lutchminarain 👋
 
 - 🔭 I’m currently working on Congo AI
 - 🌱 I’m currently learning NodeJS
