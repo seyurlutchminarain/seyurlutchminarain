@@ -13,4 +13,4 @@
 - 😄 Pronouns: He/His
 --------------------------------------------------------------------------------------------------------------------------------
 
-![Seyur's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyurlutchminarain&show_icons=true&theme=merko)
+![Seyur's GitHub stats](https://github-readme-stats.vercel.app/api?username=seyurlutchminarain&show_icons=true&theme=cobalt)
