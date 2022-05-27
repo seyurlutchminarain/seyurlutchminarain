@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on building full stack capability.
 - 🌱 I’m currently learning ASP.NET Core.
 - 👯 I’m looking to collaborate on GitHub.
-- 🤔 I’m looking for help with Vue.JS and understanding Cloud Technologies.
-- 💬 Ask me about Python or any tech related topics.
+- 🤔 I’m looking for help with Express.js, Node.js and understanding Cloud Technologies.
+- 💬 Ask me about Python, JavaScript or any tech related topics.
 - 📫 How to reach me: Twitter: @_seyur_
                        Email: <emph>seyurlutchminarain@gmail.com<emph>
 - 😄 Pronouns: He/His.
